@@ -1,0 +1,16 @@
+backend/target/
+backend/.idea/
+backend/src/main/resources/application.properties
+
+frontend/node_modules/
+frontend/build/
+
+.env
+.env.*
+!.env.example
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
